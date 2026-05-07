@@ -7,3 +7,5 @@ Gitの練習をしていきます。
 hello world
 
 GW明けたわ
+
+わにま
